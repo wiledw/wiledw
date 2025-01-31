@@ -3,8 +3,8 @@
 
 <h3 align="center">https://wiledw.github.io/portfolio/</h3>
 
-<h4>Progamming Languages: Python, Java, JavaScript, TypeScript, C, C++, C#, HTML5, CSS3, SQL, Prolog, Bash</h4>
-<h4>Technologies: Git, Docker, Node.js, Express.js, React.js, Next.js, Flask, Spring, ASP.NET, MongoDB, Postgres, Supabase, Oracle, Jira</h4>
+<h4>Progamming Languages: Python, TypeScript, JavaScript, Java</h4>
+<h4>Technologies: Git, AWS, Docker, Node.js, Express.js, React.js, Next.js, Flask, Spring, ASP.NET, MongoDB, Postgres, Supabase, Oracle, Jira</h4>
 
 - 📫 How to reach me **william.gunawan@torontomu.ca**
 
