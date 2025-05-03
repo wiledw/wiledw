@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">I like to code random stuffs</h3>
+<h3 align="center">I like building random things with code!</h3>
 
-<h3 align="center">https://wiledw.github.io/portfolio/</h3>
+<p align="center">
+  <a href="https://wiledw.github.io/portfolio/" target="_blank">🌐 Visit my Portfolio</a>
+</p>
 
-<h4>Progamming Languages: Python, TypeScript, JavaScript, Java</h4>
-<h4>Technologies: Git, AWS, Docker, Node.js, Express.js, React.js, Next.js, Flask, Spring, ASP.NET, MongoDB, Postgres, Supabase, Oracle, Jira</h4>
+---
 
-- 📫 How to reach me **william.gunawan@torontomu.ca**
+### 🛠 Programming Languages
+Python • TypeScript • JavaScript • Java
 
-- 📄 Know about my experiences from LinkedIn: [https://www.linkedin.com/in/william-edwardo-gunawan/](https://www.linkedin.com/in/william-edwardo-gunawan/)
+### 🧰 Technologies and Tools
+Git • AWS • Docker • Node.js • Express.js • React.js • Next.js • Flask • Spring • ASP.NET • MongoDB • PostgreSQL • Supabase • Oracle • Jira
 
+---
 
+### 📫 How to reach me
+**Email**: william.gunawan@torontomu.ca  
+**LinkedIn**: [William Edwardo Gunawan](https://www.linkedin.com/in/william-edwardo-gunawan/)
 
+---
+
+### 📄 My Resume
+<p align="center">
+  <a href="path/to/your_resume.pdf" target="_blank">
+    <img src="images/resume.jpg" alt="William's Resume" width="600"/>
+  </a>
+</p>
