@@ -20,10 +20,3 @@ Git • AWS • Docker • Node.js • Express.js • React.js • Next.js • F
 **LinkedIn**: [William Edwardo Gunawan](https://www.linkedin.com/in/william-edwardo-gunawan/)
 
 ---
-
-### 📄 My Resume
-<p align="center">
-  <a href="path/to/your_resume.pdf" target="_blank">
-    <img src="images/resume.jpg" alt="William's Resume" width="600"/>
-  </a>
-</p>
