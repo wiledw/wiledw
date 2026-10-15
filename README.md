@@ -35,19 +35,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**67dex**](https://github.com/wiledw/67dex) | Decentralized exchange | Solidity |
-| [**Quantex**](https://github.com/wiledw/Quantex) · [ws](https://github.com/wiledw/Quantex-Websocket) | Real-time crypto exchange dashboard | TypeScript, Python |
-| [**Oniswap**](https://github.com/wiledw/Oniswap) | Token swap interface | TypeScript |
-| [**AI-Semantic-Cache**](https://github.com/wiledw/AI-Semantic-Cache) | Cache LLM responses by meaning, not exact text | Python |
-| [**fde-issue-triage**](https://github.com/wiledw/fde-issue-triage) | AI triage assistant for `astral-sh/uv` issues — agent + evals | Python |
-| [**voya-travel**](https://github.com/wiledw/voya-travel) | Travel companion — Meta Toronto Hackathon 2024 | Python |
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
