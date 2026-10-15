@@ -9,7 +9,7 @@
 ---
 
 ### 📫 How to reach me
-**Email**: william.gunawan@torontomu.ca  
+**Email**: william.edwardo@gmail.com
 **LinkedIn**: [William Edwardo Gunawan](https://www.linkedin.com/in/william-edwardo-gunawan/)
 
 ---
