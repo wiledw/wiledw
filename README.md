@@ -10,7 +10,7 @@
   <a href="https://williamgunawan.dev/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/william-edwardo-gunawan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:william.edwardo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wiledw&style=for-the-badge&color=A855F7&label=Profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wiledw.wiledw&left_text=Profile%20views&left_color=%23555&right_color=%23A855F7" alt="Profile views" />
 </p>
 
 ---
